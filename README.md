@@ -26,5 +26,6 @@
   ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/cd29ac19-20ba-44de-90ea-ab53c6cc22ab)
 
 - Trang quản lý
-  ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/1e9b9b56-6e04-401b-aff1-b4588cc77a2d)
+  ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/ded5fde8-aa1d-488c-8031-7ab3eb431876)
+
 
