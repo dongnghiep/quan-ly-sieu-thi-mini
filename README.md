@@ -20,7 +20,8 @@
 
 ## Hình ảnh demo
 - Trang đăng nhập
-  ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/9d37eee7-9b7e-4324-8a0d-f079be40c7f3)
+  ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/d08af68c-6163-469b-a56a-ecaea6d48403)
+
 
 - Trang bán hàng (Thanh toán)
   ![image](https://github.com/dongnghiep/quan-ly-sieu-thi-mini/assets/134415404/cd29ac19-20ba-44de-90ea-ab53c6cc22ab)
